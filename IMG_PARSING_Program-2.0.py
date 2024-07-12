@@ -7,7 +7,7 @@ import re
 import openpyxl
 
 # Update with your actual project ID
-project_id = "fleet-rite-427411-s1"
+project_id = "GOOGLE_PROJECT_ID"
 
 # Initialize GenerativeModel
 model = GenerativeModel(model_name="gemini-1.5-flash-001")
@@ -179,7 +179,7 @@ if __name__ == "__main__":
     folder_path = r'C:\Users\Himu\Desktop\test'
 
     # Path to your service account key JSON fil
-    json_key_path = r'C:\Users\Himu\Desktop\New folder (3)\fleet-rite-427411-s1-a1c0b58f852c.json'
+    json_key_path = r'GOOGLE_APPLICATION_CREDENTIALS'
 
     # List all image paths in the folder
     image_paths = [os.path.join(folder_path, filename) for filename in os.listdir(folder_path)
