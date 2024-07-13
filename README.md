@@ -21,7 +21,7 @@ This repository contains a Python script for extracting text from images using t
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/image-text-extraction.git
+    git clone [https://github.com/yourusername/image-text-extraction.git](https://github.com/Himu404/IMG_PARSING_Program-2.0.git)
     cd image-text-extraction
     ```
 
@@ -101,4 +101,4 @@ For questions or suggestions, please contact najmulhaqe164@gmail.com.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unilicense License - see the [LICENSE](LICENSE) file for details.
