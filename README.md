@@ -101,4 +101,4 @@ For questions or suggestions, please contact najmulhaqe164@gmail.com.
 
 ## License
 
-This project is licensed under the Unilicense License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unlicense License - see the [LICENSE](LICENSE) file for details.
